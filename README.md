@@ -39,7 +39,9 @@
 
 
 
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sid0225s&theme=tokyonight&show_icons=true" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid0225s&show_icons=true&locale=en&layout=compact" alt="arora-jasjot" /></p>
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid0225s&theme=tokyonight&show_icons=true" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sid0225s&show_icons=true&locale=en" alt="arora-jasjot" /></p>
+</p>
